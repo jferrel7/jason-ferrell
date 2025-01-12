@@ -7,7 +7,7 @@ export default function Home() {
       <h2 className="text-xl font-medium mb-12 text-gray-400">web architect, music lover and wannabe chef.</h2>
       <h3 className="text-lg mb-2 font-medium text-gray-700">Current work</h3>
       <p className="max-w-xl mb-12 text-gray-400">
-        Building a knowledge portal for company intranets, with an integrated block editor for creating structured content with curated enterprise video, image, learning, and files.
+        Building a knowledge portal for company intranets, with an integrated block editor for creating structured content that includes curated enterprise video, image, learning, and files.
       </p>
       <ul className="mb-12">
         <li><a href="https://github.com/jferrel7" title="Github" className="text-purple-500">Github</a></li>
