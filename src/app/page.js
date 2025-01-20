@@ -11,8 +11,6 @@ export default function Home() {
       </p>
       <ul className="mb-12">
         <li><a href="https://github.com/jferrel7" title="Github" className="text-purple-500">Github</a></li>
-        <li><a href="https://bsky.app/profile/jasonferrell.bsky.social" title="Bluesky" className="text-purple-500">Bluesky</a></li>
-        <li><a href="https://instagram.com/jasonferrell" title="Instagram" className="text-purple-500">Instagram</a></li>
         <li><a href="https://www.linkedin.com/in/jasonferrell/" title="LinkedIn" className="text-purple-500">LinkedIn</a></li>
       </ul>      
       <p className="text-gray-400">
